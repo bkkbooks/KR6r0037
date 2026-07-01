@@ -1,0 +1,366 @@
+canonical_identifier: bkk:krp/KR6r0037/T/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6r0037_T_001-0185b11, ed: T, 'n': 0185b11}
+  - {type: line-break, offset: 0, content: '', id: KR6r0037_T_001-0185b12, ed: T, 'n': 0185b12}
+  - {type: xml-element, offset: 0, content: '', id: KR6r0037_T_001-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': author}}
+  - {type: xml-element, offset: 11, content: '', id: KR6r0037_T_001-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': author}}
+  - {type: line-break, offset: 11, content: '', id: KR6r0037_T_001-0185b13, ed: T, 'n': 0185b13}
+  - {type: xml-element, offset: 11, content: '', id: pT50p0185b1301, name: p, role: open, attrs: {'xml:id': pT50p0185b1301}}
+  - {type: variant, offset: 11, length: 1, content: 大, 宮: 又大}
+  - {type: punctuation, offset: 19, content: 。, id: KR6r0037_T_001-bkkpn1}
+  - {type: punctuation, offset: 27, content: 。, id: KR6r0037_T_001-bkkpn2}
+  - {type: line-break, offset: 27, content: '', id: KR6r0037_T_001-0185b14, ed: T, 'n': 0185b14}
+  - {type: punctuation, offset: 35, content: 。, id: KR6r0037_T_001-bkkpn3}
+  - {type: variant, offset: 37, length: 2, content: 哺之, 宋: 之哺, 元: 之哺}
+  - {type: punctuation, offset: 40, content: 。, id: KR6r0037_T_001-bkkpn4}
+  - {type: line-break, offset: 43, content: '', id: KR6r0037_T_001-0185b15, ed: T, 'n': 0185b15}
+  - {type: punctuation, offset: 53, content: 。, id: KR6r0037_T_001-bkkpn5}
+  - {type: punctuation, offset: 59, content: 。, id: KR6r0037_T_001-bkkpn6}
+  - {type: line-break, offset: 59, content: '', id: KR6r0037_T_001-0185b16, ed: T, 'n': 0185b16}
+  - {type: variant, offset: 59, length: 4, content: 背誦其文, 宮: 皆領其義}
+  - {type: variant, offset: 63, length: 4, content: 而領其義, 宮: 背誦其文}
+  - {type: punctuation, offset: 67, content: 。, id: KR6r0037_T_001-bkkpn7}
+  - {type: line-break, offset: 74, content: '', id: KR6r0037_T_001-0185b17, ed: T, 'n': 0185b17}
+  - {type: punctuation, offset: 75, content: 。, id: KR6r0037_T_001-bkkpn8}
+  - {type: punctuation, offset: 87, content: 。, id: KR6r0037_T_001-bkkpn9}
+  - {type: line-break, offset: 90, content: '', id: KR6r0037_T_001-0185b18, ed: T, 'n': 0185b18}
+  - {type: punctuation, offset: 95, content: 。, id: KR6r0037_T_001-bkkpn10}
+  - {type: punctuation, offset: 105, content: 。, id: KR6r0037_T_001-bkkpn11}
+  - {type: line-break, offset: 106, content: '', id: KR6r0037_T_001-0185b19, ed: T, 'n': 0185b19}
+  - {type: punctuation, offset: 122, content: 。, id: KR6r0037_T_001-bkkpn12}
+  - {type: line-break, offset: 123, content: '', id: KR6r0037_T_001-0185b20, ed: T, 'n': 0185b20}
+  - {type: punctuation, offset: 127, content: 。, id: KR6r0037_T_001-bkkpn13}
+  - {type: variant, offset: 133, length: 4, content: 騁情極欲, 宮: 騁欲極情}
+  - {type: punctuation, offset: 137, content: 。, id: KR6r0037_T_001-bkkpn14}
+  - {type: line-break, offset: 139, content: '', id: KR6r0037_T_001-0185b21, ed: T, 'n': 0185b21}
+  - {type: punctuation, offset: 143, content: 。, id: KR6r0037_T_001-bkkpn15}
+  - {type: variant, offset: 144, length: 1, content: 諸, 宮: ''}
+  - {type: variant, offset: 151, length: 2, content: 王公, 宮: 公王}
+  - {type: line-break, offset: 154, content: '', id: KR6r0037_T_001-0185b22, ed: T, 'n': 0185b22}
+  - {type: punctuation, offset: 157, content: 。, id: KR6r0037_T_001-bkkpn16}
+  - {type: variant, offset: 159, length: 5, content: 隱身之術斯, 宮: 術法隱身藏形其}
+  - {type: punctuation, offset: 167, content: 。, id: KR6r0037_T_001-bkkpn17}
+  - {type: line-break, offset: 170, content: '', id: KR6r0037_T_001-0185b23, ed: T, 'n': 0185b23}
+  - {type: punctuation, offset: 175, content: 。, id: KR6r0037_T_001-bkkpn18}
+  - {type: punctuation, offset: 183, content: 。, id: KR6r0037_T_001-bkkpn19}
+  - {type: line-break, offset: 186, content: '', id: KR6r0037_T_001-0185b24, ed: T, 'n': 0185b24}
+  - {type: punctuation, offset: 187, content: 。, id: KR6r0037_T_001-bkkpn20}
+  - {type: variant, offset: 191, length: 1, content: 擅, 宮: 誕}
+  - {type: punctuation, offset: 195, content: 。, id: KR6r0037_T_001-bkkpn21}
+  - {type: line-break, offset: 202, content: '', id: KR6r0037_T_001-0185b25, ed: T, 'n': 0185b25}
+  - {type: punctuation, offset: 207, content: 。, id: KR6r0037_T_001-bkkpn22}
+  - {type: punctuation, offset: 213, content: 。, id: KR6r0037_T_001-bkkpn23}
+  - {type: line-break, offset: 218, content: '', id: KR6r0037_T_001-0185b26, ed: T, 'n': 0185b26}
+  - {type: punctuation, offset: 227, content: 。, id: KR6r0037_T_001-bkkpn24}
+  - {type: line-break, offset: 234, content: '', id: KR6r0037_T_001-0185b27, ed: T, 'n': 0185b27}
+  - {type: punctuation, offset: 236, content: 。, id: KR6r0037_T_001-bkkpn25}
+  - {type: punctuation, offset: 246, content: 。, id: KR6r0037_T_001-bkkpn26}
+  - {type: variant, offset: 246, length: 3, content: 藥盡必, 宮: 盡則}
+  - {type: line-break, offset: 250, content: '', id: KR6r0037_T_001-0185b28, ed: T, 'n': 0185b28}
+  - {type: variant, offset: 250, length: 1, content: 求, 宋: 永, 元: 永}
+  - {type: punctuation, offset: 251, content: 。, id: KR6r0037_T_001-bkkpn27}
+  - {type: variant, offset: 251, length: 8, content: 可以術屈為我弟子, 宋: 當師我, 元: 當師我}
+  - {type: punctuation, offset: 259, content: 。, id: KR6r0037_T_001-bkkpn28}
+  - {type: line-break, offset: 265, content: '', id: KR6r0037_T_001-0185b29, ed: T, 'n': 0185b29}
+  - {type: punctuation, offset: 268, content: 。, id: KR6r0037_T_001-bkkpn29}
+  - {type: punctuation, offset: 280, content: 。, id: KR6r0037_T_001-bkkpn30}
+  - {type: page-break, offset: 281, content: '', id: KR6r0037_T_001-0185c, 'n': 0185c, ed: T, source_xml_id: T50.2047b.0185c}
+  - {type: line-break, offset: 281, content: '', id: KR6r0037_T_001-0185c01, ed: T, 'n': 0185c01}
+  - {type: punctuation, offset: 289, content: 。, id: KR6r0037_T_001-bkkpn31}
+  - {type: punctuation, offset: 297, content: 。, id: KR6r0037_T_001-bkkpn32}
+  - {type: line-break, offset: 297, content: '', id: KR6r0037_T_001-0185c02, ed: T, 'n': 0185c02}
+  - {type: punctuation, offset: 304, content: 。, id: KR6r0037_T_001-bkkpn33}
+  - {type: variant, offset: 306, length: 4, content: 錙銖無失, 宮: ''}
+  - {type: punctuation, offset: 310, content: 。, id: KR6r0037_T_001-bkkpn34}
+  - {type: line-break, offset: 312, content: '', id: KR6r0037_T_001-0185c03, ed: T, 'n': 0185c03}
+  - {type: punctuation, offset: 318, content: 。, id: KR6r0037_T_001-bkkpn35}
+  - {type: punctuation, offset: 328, content: 。, id: KR6r0037_T_001-bkkpn36}
+  - {type: line-break, offset: 328, content: '', id: KR6r0037_T_001-0185c04, ed: T, 'n': 0185c04}
+  - {type: variant, offset: 333, length: 3, content: 如其方, 宮: 而說之}
+  - {type: punctuation, offset: 336, content: 。, id: KR6r0037_T_001-bkkpn37}
+  - {type: punctuation, offset: 344, content: 。, id: KR6r0037_T_001-bkkpn38}
+  - {type: line-break, offset: 344, content: '', id: KR6r0037_T_001-0185c05, ed: T, 'n': 0185c05}
+  - {type: punctuation, offset: 354, content: 。, id: KR6r0037_T_001-bkkpn39}
+  - {type: variant, offset: 354, length: 24, content: '師即歎伏。顧＝願【宋】【元】顧【大】，願【宋】【元】顧願
+
+      斯人者聞之猶難。而況相學。我之賤術何足惜耶', 宮: 師伏其神明鏡徹領識拔奇此人難遇況今願學我此術法何足祕悋}
+  - {type: punctuation, offset: 358, content: 。, id: KR6r0037_T_001-bkkpn40}
+  - {type: variant, offset: 358, length: 1, content: 顧, 宋: 願, 元: 願}
+  - {type: line-break, offset: 359, content: '', id: KR6r0037_T_001-0185c06, ed: T, 'n': 0185c06}
+  - {type: punctuation, offset: 366, content: 。, id: KR6r0037_T_001-bkkpn41}
+  - {type: punctuation, offset: 370, content: 。, id: KR6r0037_T_001-bkkpn42}
+  - {type: line-break, offset: 375, content: '', id: KR6r0037_T_001-0185c07, ed: T, 'n': 0185c07}
+  - {type: punctuation, offset: 378, content: 。, id: KR6r0037_T_001-bkkpn43}
+  - {type: punctuation, offset: 381, content: 。, id: KR6r0037_T_001-bkkpn44}
+  - {type: variant, offset: 381, length: 1, content: 其, 宮: 其術}
+  - {type: variant, offset: 384, length: 2, content: 得術, 宮: ''}
+  - {type: variant, offset: 388, length: 2, content: 自在, 宮: ''}
+  - {type: line-break, offset: 390, content: '', id: KR6r0037_T_001-0185c08, ed: T, 'n': 0185c08}
+  - {type: punctuation, offset: 394, content: 。, id: KR6r0037_T_001-bkkpn45}
+  - {type: punctuation, offset: 405, content: 。, id: KR6r0037_T_001-bkkpn46}
+  - {type: line-break, offset: 406, content: '', id: KR6r0037_T_001-0185c09, ed: T, 'n': 0185c09}
+  - {type: variant, offset: 407, length: 3, content: 中人有, 宮: ''}
+  - {type: punctuation, offset: 417, content: 。, id: KR6r0037_T_001-bkkpn47}
+  - {type: punctuation, offset: 421, content: 。, id: KR6r0037_T_001-bkkpn48}
+  - {type: line-break, offset: 422, content: '', id: KR6r0037_T_001-0185c10, ed: T, 'n': 0185c10}
+  - {type: variant, offset: 425, length: 1, content: 為, 宮: 有}
+  - {type: punctuation, offset: 429, content: 。, id: KR6r0037_T_001-bkkpn49}
+  - {type: punctuation, offset: 437, content: 。, id: KR6r0037_T_001-bkkpn50}
+  - {type: line-break, offset: 438, content: '', id: KR6r0037_T_001-0185c11, ed: T, 'n': 0185c11}
+  - {type: variant, offset: 442, length: 5, content: 凡如此事應, 宮: 此}
+  - {type: punctuation, offset: 450, content: 。, id: KR6r0037_T_001-bkkpn51}
+  - {type: punctuation, offset: 454, content: 。, id: KR6r0037_T_001-bkkpn52}
+  - {type: line-break, offset: 454, content: '', id: KR6r0037_T_001-0185c12, ed: T, 'n': 0185c12}
+  - {type: punctuation, offset: 462, content: 。, id: KR6r0037_T_001-bkkpn53}
+  - {type: line-break, offset: 470, content: '', id: KR6r0037_T_001-0185c13, ed: T, 'n': 0185c13}
+  - {type: punctuation, offset: 471, content: 。, id: KR6r0037_T_001-bkkpn54}
+  - {type: variant, offset: 479, length: 4, content: 可以兵除, 宮: ''}
+  - {type: punctuation, offset: 483, content: 。, id: KR6r0037_T_001-bkkpn55}
+  - {type: line-break, offset: 486, content: '', id: KR6r0037_T_001-0185c14, ed: T, 'n': 0185c14}
+  - {type: punctuation, offset: 491, content: 。, id: KR6r0037_T_001-bkkpn56}
+  - {type: punctuation, offset: 499, content: 。, id: KR6r0037_T_001-bkkpn57}
+  - {type: variant, offset: 499, length: 2, content: 備法, 宮: ''}
+  - {type: line-break, offset: 502, content: '', id: KR6r0037_T_001-0185c15, ed: T, 'n': 0185c15}
+  - {type: variant, offset: 504, length: 2, content: 四人, 宮: ''}
+  - {type: punctuation, offset: 507, content: 。, id: KR6r0037_T_001-bkkpn58}
+  - {type: punctuation, offset: 516, content: 。, id: KR6r0037_T_001-bkkpn59}
+  - {type: variant, offset: 516, length: 3, content: 揮刀空, 宮: 拔刀闇}
+  - {type: line-break, offset: 517, content: '', id: KR6r0037_T_001-0185c16, ed: T, 'n': 0185c16}
+  - {type: punctuation, offset: 524, content: 。, id: KR6r0037_T_001-bkkpn60}
+  - {type: variant, offset: 524, length: 2, content: 唯有, 宮: ''}
+  - {type: variant, offset: 528, length: 1, content: 斂, 大: 歛, 宮: 以}
+  - {type: variant, offset: 530, length: 9, content: 屏氣依王頭側。王頭側, 宮: 依王坐王頭邊頭邊}
+  - {type: line-break, offset: 532, content: '', id: KR6r0037_T_001-0185c17, ed: T, 'n': 0185c17}
+  - {type: punctuation, offset: 536, content: 。, id: KR6r0037_T_001-bkkpn61}
+  - {type: punctuation, offset: 545, content: 。, id: KR6r0037_T_001-bkkpn62}
+  - {type: line-break, offset: 548, content: '', id: KR6r0037_T_001-0185c18, ed: T, 'n': 0185c18}
+  - {type: punctuation, offset: 553, content: 。, id: KR6r0037_T_001-bkkpn63}
+  - {type: punctuation, offset: 561, content: 。, id: KR6r0037_T_001-bkkpn64}
+  - {type: line-break, offset: 564, content: '', id: KR6r0037_T_001-0185c19, ed: T, 'n': 0185c19}
+  - {type: punctuation, offset: 565, content: 。, id: KR6r0037_T_001-bkkpn65}
+  - {type: punctuation, offset: 573, content: 。, id: KR6r0037_T_001-bkkpn66}
+  - {type: line-break, offset: 580, content: '', id: KR6r0037_T_001-0185c20, ed: T, 'n': 0185c20}
+  - {type: punctuation, offset: 586, content: 。, id: KR6r0037_T_001-bkkpn67}
+  - {type: punctuation, offset: 593, content: 。, id: KR6r0037_T_001-bkkpn68}
+  - {type: variant, offset: 593, length: 1, content: 盡, 宮: ''}
+  - {type: line-break, offset: 595, content: '', id: KR6r0037_T_001-0185c21, ed: T, 'n': 0185c21}
+  - {type: punctuation, offset: 598, content: 。, id: KR6r0037_T_001-bkkpn69}
+  - {type: punctuation, offset: 606, content: 。, id: KR6r0037_T_001-bkkpn70}
+  - {type: line-break, offset: 611, content: '', id: KR6r0037_T_001-0185c22, ed: T, 'n': 0185c22}
+  - {type: punctuation, offset: 615, content: 。, id: KR6r0037_T_001-bkkpn71}
+  - {type: punctuation, offset: 622, content: 。, id: KR6r0037_T_001-bkkpn72}
+  - {type: variant, offset: 625, length: 1, content: 衍, 宮: 乘}
+  - {type: line-break, offset: 627, content: '', id: KR6r0037_T_001-0185c23, ed: T, 'n': 0185c23}
+  - {type: punctuation, offset: 629, content: 。, id: KR6r0037_T_001-bkkpn73}
+  - {type: variant, offset: 629, length: 8, content: 誦受愛樂雖知實義, 宮: 雖得實}
+  - {type: variant, offset: 639, length: 1, content: 通, 宮: 道}
+  - {type: punctuation, offset: 641, content: 。, id: KR6r0037_T_001-bkkpn74}
+  - {type: line-break, offset: 642, content: '', id: KR6r0037_T_001-0185c24, ed: T, 'n': 0185c24}
+  - {type: punctuation, offset: 649, content: 。, id: KR6r0037_T_001-bkkpn75}
+  - {type: punctuation, offset: 658, content: 。, id: KR6r0037_T_001-bkkpn76}
+  - {type: line-break, offset: 658, content: '', id: KR6r0037_T_001-0185c25, ed: T, 'n': 0185c25}
+  - {type: variant, offset: 660, length: 1, content: 論, 宮: 諸}
+  - {type: variant, offset: 664, length: 1, content: 義, 宮: 豪}
+  - {type: punctuation, offset: 670, content: 。, id: KR6r0037_T_001-bkkpn77}
+  - {type: variant, offset: 670, length: 4, content: 即起憍慢, 宮: 憍慢即起}
+  - {type: page-break, offset: 673, content: '', id: KR6r0037_T_001-0186a, 'n': 0186a, ed: T, source_xml_id: T50.2047b.0186a}
+  - {type: line-break, offset: 673, content: '', id: KR6r0037_T_001-0186a01, ed: T, 'n': 0186a01}
+  - {type: punctuation, offset: 675, content: 。, id: KR6r0037_T_001-bkkpn78}
+  - {type: punctuation, offset: 686, content: 。, id: KR6r0037_T_001-bkkpn79}
+  - {type: line-break, offset: 689, content: '', id: KR6r0037_T_001-0186a02, ed: T, 'n': 0186a02}
+  - {type: punctuation, offset: 697, content: 。, id: KR6r0037_T_001-bkkpn80}
+  - {type: punctuation, offset: 703, content: 。, id: KR6r0037_T_001-bkkpn81}
+  - {type: line-break, offset: 705, content: '', id: KR6r0037_T_001-0186a03, ed: T, 'n': 0186a03}
+  - {type: punctuation, offset: 710, content: 。, id: KR6r0037_T_001-bkkpn82}
+  - {type: punctuation, offset: 718, content: 。, id: KR6r0037_T_001-bkkpn83}
+  - {type: line-break, offset: 721, content: '', id: KR6r0037_T_001-0186a04, ed: T, 'n': 0186a04}
+  - {type: punctuation, offset: 722, content: 。, id: KR6r0037_T_001-bkkpn84}
+  - {type: punctuation, offset: 726, content: 。, id: KR6r0037_T_001-bkkpn85}
+  - {type: line-break, offset: 737, content: '', id: KR6r0037_T_001-0186a05, ed: T, 'n': 0186a05}
+  - {type: punctuation, offset: 738, content: 。, id: KR6r0037_T_001-bkkpn86}
+  - {type: variant, offset: 738, length: 1, content: 今, 宮: 合}
+  - {type: punctuation, offset: 746, content: 。, id: KR6r0037_T_001-bkkpn87}
+  - {type: line-break, offset: 752, content: '', id: KR6r0037_T_001-0186a06, ed: T, 'n': 0186a06}
+  - {type: punctuation, offset: 758, content: 。, id: KR6r0037_T_001-bkkpn88}
+  - {type: variant, offset: 762, length: 11, content: 當與諸弟子。受新戒著新衣, 宮: ''}
+  - {type: punctuation, offset: 767, content: 。, id: KR6r0037_T_001-bkkpn89}
+  - {type: line-break, offset: 767, content: '', id: KR6r0037_T_001-0186a07, ed: T, 'n': 0186a07}
+  - {type: punctuation, offset: 777, content: 。, id: KR6r0037_T_001-bkkpn90}
+  - {type: line-break, offset: 783, content: '', id: KR6r0037_T_001-0186a08, ed: T, 'n': 0186a08}
+  - {type: punctuation, offset: 785, content: 。, id: KR6r0037_T_001-bkkpn91}
+  - {type: punctuation, offset: 793, content: 。, id: KR6r0037_T_001-bkkpn92}
+  - {type: line-break, offset: 799, content: '', id: KR6r0037_T_001-0186a09, ed: T, 'n': 0186a09}
+  - {type: punctuation, offset: 801, content: 。, id: KR6r0037_T_001-bkkpn93}
+  - {type: punctuation, offset: 813, content: 。, id: KR6r0037_T_001-bkkpn94}
+  - {type: line-break, offset: 815, content: '', id: KR6r0037_T_001-0186a10, ed: T, 'n': 0186a10}
+  - {type: variant, offset: 826, length: 3, content: 之龍樹, 宮: ''}
+  - {type: punctuation, offset: 829, content: 。, id: KR6r0037_T_001-bkkpn95}
+  - {type: line-break, offset: 831, content: '', id: KR6r0037_T_001-0186a11, ed: T, 'n': 0186a11}
+  - {type: punctuation, offset: 841, content: 。, id: KR6r0037_T_001-bkkpn96}
+  - {type: line-break, offset: 847, content: '', id: KR6r0037_T_001-0186a12, ed: T, 'n': 0186a12}
+  - {type: punctuation, offset: 849, content: 。, id: KR6r0037_T_001-bkkpn97}
+  - {type: punctuation, offset: 857, content: 。, id: KR6r0037_T_001-bkkpn98}
+  - {type: punctuation, offset: 861, content: 。, id: KR6r0037_T_001-bkkpn99}
+  - {type: line-break, offset: 863, content: '', id: KR6r0037_T_001-0186a13, ed: T, 'n': 0186a13}
+  - {type: punctuation, offset: 876, content: 。, id: KR6r0037_T_001-bkkpn100}
+  - {type: line-break, offset: 879, content: '', id: KR6r0037_T_001-0186a14, ed: T, 'n': 0186a14}
+  - {type: punctuation, offset: 886, content: 。, id: KR6r0037_T_001-bkkpn101}
+  - {type: line-break, offset: 895, content: '', id: KR6r0037_T_001-0186a15, ed: T, 'n': 0186a15}
+  - {type: punctuation, offset: 896, content: 。, id: KR6r0037_T_001-bkkpn102}
+  - {type: punctuation, offset: 904, content: 。, id: KR6r0037_T_001-bkkpn103}
+  - {type: line-break, offset: 911, content: '', id: KR6r0037_T_001-0186a16, ed: T, 'n': 0186a16}
+  - {type: punctuation, offset: 912, content: 。, id: KR6r0037_T_001-bkkpn104}
+  - {type: variant, offset: 916, length: 1, content: 三, 宋: 二}
+  - {type: punctuation, offset: 920, content: 。, id: KR6r0037_T_001-bkkpn105}
+  - {type: punctuation, offset: 924, content: 。, id: KR6r0037_T_001-bkkpn106}
+  - {type: variant, offset: 924, length: 323, content: 時南天竺王甚邪見承事外道毀謗正法。龍樹菩薩為化彼故躬持赤旛在王前行。經歷七年王始怪問。此是何人在我＝吾【宋】【元】我【大】，吾【宋】【元】我吾前行。答曰我是一切智人。王聞是已甚大驚愕而問之言。一切智人曠代不有。汝自言是何以驗之。答言欲知智在說王當見問。王即自念我為智主大論議師。問之能屈猶不足名。一旦不如此非小事。若其不問便是一屈遲疑良久。不得已而問之。天今何為耶。龍樹言天今與阿脩羅戰。王聞此言譬如人噎。既不得吐又不得咽。欲非其言復無以證之。欲是其事無事可明。未言之間龍樹復言。此非虛論求勝之談。王小待之須臾有驗。言訖空中便有干戈兵器相係而落。王言干戈矛戟雖是戰器。汝何必知是天與阿脩羅戰。龍樹言搆之虛言不如校以實事。言已阿脩羅手足指及其耳鼻從空而下。又令王及臣民婆羅門眾。見空中清除兩陣相對。王乃稽首伏其法化。殿上有萬婆羅門。皆棄束髮受成就戒。是時龍樹, 宮: ''}
+  - {type: line-break, offset: 926, content: '', id: KR6r0037_T_001-0186a17, ed: T, 'n': 0186a17}
+  - {type: punctuation, offset: 940, content: 。, id: KR6r0037_T_001-bkkpn107}
+  - {type: line-break, offset: 942, content: '', id: KR6r0037_T_001-0186a18, ed: T, 'n': 0186a18}
+  - {type: punctuation, offset: 956, content: 。, id: KR6r0037_T_001-bkkpn108}
+  - {type: line-break, offset: 958, content: '', id: KR6r0037_T_001-0186a19, ed: T, 'n': 0186a19}
+  - {type: punctuation, offset: 964, content: 。, id: KR6r0037_T_001-bkkpn109}
+  - {type: variant, offset: 969, length: 1, content: 我, 宋: 吾, 元: 吾}
+  - {type: punctuation, offset: 972, content: 。, id: KR6r0037_T_001-bkkpn110}
+  - {type: line-break, offset: 974, content: '', id: KR6r0037_T_001-0186a20, ed: T, 'n': 0186a20}
+  - {type: punctuation, offset: 980, content: 。, id: KR6r0037_T_001-bkkpn111}
+  - {type: line-break, offset: 990, content: '', id: KR6r0037_T_001-0186a21, ed: T, 'n': 0186a21}
+  - {type: punctuation, offset: 992, content: 。, id: KR6r0037_T_001-bkkpn112}
+  - {type: punctuation, offset: 1000, content: 。, id: KR6r0037_T_001-bkkpn113}
+  - {type: line-break, offset: 1006, content: '', id: KR6r0037_T_001-0186a22, ed: T, 'n': 0186a22}
+  - {type: punctuation, offset: 1008, content: 。, id: KR6r0037_T_001-bkkpn114}
+  - {type: punctuation, offset: 1019, content: 。, id: KR6r0037_T_001-bkkpn115}
+  - {type: line-break, offset: 1022, content: '', id: KR6r0037_T_001-0186a23, ed: T, 'n': 0186a23}
+  - {type: punctuation, offset: 1031, content: 。, id: KR6r0037_T_001-bkkpn116}
+  - {type: line-break, offset: 1038, content: '', id: KR6r0037_T_001-0186a24, ed: T, 'n': 0186a24}
+  - {type: punctuation, offset: 1039, content: 。, id: KR6r0037_T_001-bkkpn117}
+  - {type: punctuation, offset: 1047, content: 。, id: KR6r0037_T_001-bkkpn118}
+  - {type: line-break, offset: 1054, content: '', id: KR6r0037_T_001-0186a25, ed: T, 'n': 0186a25}
+  - {type: punctuation, offset: 1059, content: 。, id: KR6r0037_T_001-bkkpn119}
+  - {type: punctuation, offset: 1065, content: 。, id: KR6r0037_T_001-bkkpn120}
+  - {type: punctuation, offset: 1070, content: 。, id: KR6r0037_T_001-bkkpn121}
+  - {type: line-break, offset: 1070, content: '', id: KR6r0037_T_001-0186a26, ed: T, 'n': 0186a26}
+  - {type: punctuation, offset: 1080, content: 。, id: KR6r0037_T_001-bkkpn122}
+  - {type: line-break, offset: 1086, content: '', id: KR6r0037_T_001-0186a27, ed: T, 'n': 0186a27}
+  - {type: punctuation, offset: 1088, content: 。, id: KR6r0037_T_001-bkkpn123}
+  - {type: punctuation, offset: 1096, content: 。, id: KR6r0037_T_001-bkkpn124}
+  - {type: line-break, offset: 1102, content: '', id: KR6r0037_T_001-0186a28, ed: T, 'n': 0186a28}
+  - {type: punctuation, offset: 1105, content: 。, id: KR6r0037_T_001-bkkpn125}
+  - {type: punctuation, offset: 1113, content: 。, id: KR6r0037_T_001-bkkpn126}
+  - {type: line-break, offset: 1118, content: '', id: KR6r0037_T_001-0186a29, ed: T, 'n': 0186a29}
+  - {type: punctuation, offset: 1121, content: 。, id: KR6r0037_T_001-bkkpn127}
+  - {type: punctuation, offset: 1129, content: 。, id: KR6r0037_T_001-bkkpn128}
+  - {type: page-break, offset: 1134, content: '', id: KR6r0037_T_001-0186b, 'n': 0186b, ed: T, source_xml_id: T50.2047b.0186b}
+  - {type: line-break, offset: 1134, content: '', id: KR6r0037_T_001-0186b01, ed: T, 'n': 0186b01}
+  - {type: punctuation, offset: 1137, content: 。, id: KR6r0037_T_001-bkkpn129}
+  - {type: line-break, offset: 1150, content: '', id: KR6r0037_T_001-0186b02, ed: T, 'n': 0186b02}
+  - {type: punctuation, offset: 1151, content: 。, id: KR6r0037_T_001-bkkpn130}
+  - {type: punctuation, offset: 1161, content: 。, id: KR6r0037_T_001-bkkpn131}
+  - {type: line-break, offset: 1166, content: '', id: KR6r0037_T_001-0186b03, ed: T, 'n': 0186b03}
+  - {type: punctuation, offset: 1172, content: 。, id: KR6r0037_T_001-bkkpn132}
+  - {type: line-break, offset: 1182, content: '', id: KR6r0037_T_001-0186b04, ed: T, 'n': 0186b04}
+  - {type: punctuation, offset: 1185, content: 。, id: KR6r0037_T_001-bkkpn133}
+  - {type: line-break, offset: 1198, content: '', id: KR6r0037_T_001-0186b05, ed: T, 'n': 0186b05}
+  - {type: punctuation, offset: 1201, content: 。, id: KR6r0037_T_001-bkkpn134}
+  - {type: punctuation, offset: 1211, content: 。, id: KR6r0037_T_001-bkkpn135}
+  - {type: line-break, offset: 1214, content: '', id: KR6r0037_T_001-0186b06, ed: T, 'n': 0186b06}
+  - {type: punctuation, offset: 1220, content: 。, id: KR6r0037_T_001-bkkpn136}
+  - {type: punctuation, offset: 1228, content: 。, id: KR6r0037_T_001-bkkpn137}
+  - {type: line-break, offset: 1230, content: '', id: KR6r0037_T_001-0186b07, ed: T, 'n': 0186b07}
+  - {type: punctuation, offset: 1235, content: 。, id: KR6r0037_T_001-bkkpn138}
+  - {type: punctuation, offset: 1243, content: 。, id: KR6r0037_T_001-bkkpn139}
+  - {type: line-break, offset: 1246, content: '', id: KR6r0037_T_001-0186b08, ed: T, 'n': 0186b08}
+  - {type: punctuation, offset: 1247, content: ．, id: KR6r0037_T_001-bkkpn140}
+  - {type: punctuation, offset: 1255, content: 。, id: KR6r0037_T_001-bkkpn141}
+  - {type: line-break, offset: 1262, content: '', id: KR6r0037_T_001-0186b09, ed: T, 'n': 0186b09}
+  - {type: variant, offset: 1263, length: 1, content: 衍, 宮: 乘}
+  - {type: punctuation, offset: 1264, content: 。, id: KR6r0037_T_001-bkkpn142}
+  - {type: punctuation, offset: 1272, content: 。, id: KR6r0037_T_001-bkkpn143}
+  - {type: line-break, offset: 1277, content: '', id: KR6r0037_T_001-0186b10, ed: T, 'n': 0186b10}
+  - {type: variant, offset: 1278, length: 1, content: 論, 宮: ''}
+  - {type: punctuation, offset: 1282, content: 。, id: KR6r0037_T_001-bkkpn144}
+  - {type: variant, offset: 1286, length: 1, content: 論, 宮: ''}
+  - {type: variant, offset: 1288, length: 1, content: 十, 宋: 千, 元: 千, 宮: 千}
+  - {type: punctuation, offset: 1290, content: 。, id: KR6r0037_T_001-bkkpn145}
+  - {type: line-break, offset: 1292, content: '', id: KR6r0037_T_001-0186b11, ed: T, 'n': 0186b11}
+  - {type: variant, offset: 1293, length: 1, content: 衍, 宮: 乘}
+  - {type: punctuation, offset: 1300, content: 。, id: KR6r0037_T_001-bkkpn146}
+  - {type: punctuation, offset: 1308, content: 。, id: KR6r0037_T_001-bkkpn147}
+  - {type: line-break, offset: 1308, content: '', id: KR6r0037_T_001-0186b12, ed: T, 'n': 0186b12}
+  - {type: punctuation, offset: 1316, content: 。, id: KR6r0037_T_001-bkkpn148}
+  - {type: line-break, offset: 1324, content: '', id: KR6r0037_T_001-0186b13, ed: T, 'n': 0186b13}
+  - {type: punctuation, offset: 1325, content: 。, id: KR6r0037_T_001-bkkpn149}
+  - {type: punctuation, offset: 1339, content: 。, id: KR6r0037_T_001-bkkpn150}
+  - {type: line-break, offset: 1340, content: '', id: KR6r0037_T_001-0186b14, ed: T, 'n': 0186b14}
+  - {type: punctuation, offset: 1349, content: 。, id: KR6r0037_T_001-bkkpn151}
+  - {type: punctuation, offset: 1355, content: 。, id: KR6r0037_T_001-bkkpn152}
+  - {type: line-break, offset: 1356, content: '', id: KR6r0037_T_001-0186b15, ed: T, 'n': 0186b15}
+  - {type: punctuation, offset: 1365, content: 。, id: KR6r0037_T_001-bkkpn153}
+  - {type: variant, offset: 1368, length: 3, content: 心並照, 宮: 人並能}
+  - {type: punctuation, offset: 1371, content: 。, id: KR6r0037_T_001-bkkpn154}
+  - {type: line-break, offset: 1372, content: '', id: KR6r0037_T_001-0186b16, ed: T, 'n': 0186b16}
+  - {type: punctuation, offset: 1379, content: 。, id: KR6r0037_T_001-bkkpn155}
+  - {type: punctuation, offset: 1383, content: 。, id: KR6r0037_T_001-bkkpn156}
+  - {type: line-break, offset: 1388, content: '', id: KR6r0037_T_001-0186b17, ed: T, 'n': 0186b17}
+  - {type: punctuation, offset: 1393, content: 。, id: KR6r0037_T_001-bkkpn157}
+  - {type: punctuation, offset: 1398, content: 。, id: KR6r0037_T_001-bkkpn158}
+  - {type: line-break, offset: 1404, content: '', id: KR6r0037_T_001-0186b18, ed: T, 'n': 0186b18}
+  - {type: punctuation, offset: 1406, content: 。, id: KR6r0037_T_001-bkkpn159}
+  - {type: punctuation, offset: 1414, content: 。, id: KR6r0037_T_001-bkkpn160}
+  - {type: line-break, offset: 1420, content: '', id: KR6r0037_T_001-0186b19, ed: T, 'n': 0186b19}
+  - {type: punctuation, offset: 1427, content: 。, id: KR6r0037_T_001-bkkpn161}
+  - {type: line-break, offset: 1436, content: '', id: KR6r0037_T_001-0186b20, ed: T, 'n': 0186b20}
+  - {type: punctuation, offset: 1437, content: 。, id: KR6r0037_T_001-bkkpn162}
+  - {type: punctuation, offset: 1445, content: 。, id: KR6r0037_T_001-bkkpn163}
+  - {type: line-break, offset: 1452, content: '', id: KR6r0037_T_001-0186b21, ed: T, 'n': 0186b21}
+  - {type: punctuation, offset: 1454, content: 。, id: KR6r0037_T_001-bkkpn164}
+  - {type: variant, offset: 1460, length: 2, content: 華上, 宮: ''}
+  - {type: variant, offset: 1463, length: 3, content: 德智人, 宮: 智}
+  - {type: line-break, offset: 1467, content: '', id: KR6r0037_T_001-0186b22, ed: T, 'n': 0186b22}
+  - {type: punctuation, offset: 1470, content: 。, id: KR6r0037_T_001-bkkpn165}
+  - {type: line-break, offset: 1484, content: '', id: KR6r0037_T_001-0186b23, ed: T, 'n': 0186b23}
+  - {type: punctuation, offset: 1485, content: 。, id: KR6r0037_T_001-bkkpn166}
+  - {type: line-break, offset: 1500, content: '', id: KR6r0037_T_001-0186b24, ed: T, 'n': 0186b24}
+  - {type: punctuation, offset: 1501, content: 。, id: KR6r0037_T_001-bkkpn167}
+  - {type: punctuation, offset: 1508, content: 。, id: KR6r0037_T_001-bkkpn168}
+  - {type: line-break, offset: 1516, content: '', id: KR6r0037_T_001-0186b25, ed: T, 'n': 0186b25}
+  - {type: punctuation, offset: 1520, content: 。, id: KR6r0037_T_001-bkkpn169}
+  - {type: punctuation, offset: 1528, content: 。, id: KR6r0037_T_001-bkkpn170}
+  - {type: line-break, offset: 1532, content: '', id: KR6r0037_T_001-0186b26, ed: T, 'n': 0186b26}
+  - {type: variant, offset: 1532, length: 11, content: 法師。常懷忿嫉。龍樹問之言, 宮: 道人先為法主龍樹問言}
+  - {type: punctuation, offset: 1534, content: 。, id: KR6r0037_T_001-bkkpn171}
+  - {type: punctuation, offset: 1538, content: 。, id: KR6r0037_T_001-bkkpn172}
+  - {type: line-break, offset: 1547, content: '', id: KR6r0037_T_001-0186b27, ed: T, 'n': 0186b27}
+  - {type: punctuation, offset: 1550, content: 。, id: KR6r0037_T_001-bkkpn173}
+  - {type: punctuation, offset: 1556, content: 。, id: KR6r0037_T_001-bkkpn174}
+  - {type: line-break, offset: 1563, content: '', id: KR6r0037_T_001-0186b28, ed: T, 'n': 0186b28}
+  - {type: punctuation, offset: 1564, content: 。, id: KR6r0037_T_001-bkkpn175}
+  - {type: punctuation, offset: 1575, content: 。, id: KR6r0037_T_001-bkkpn176}
+  - {type: line-break, offset: 1579, content: '', id: KR6r0037_T_001-0186b29, ed: T, 'n': 0186b29}
+  - {type: variant, offset: 1580, length: 1, content: 過, 宮: ''}
+  - {type: punctuation, offset: 1583, content: 。, id: KR6r0037_T_001-bkkpn177}
+  - {type: punctuation, offset: 1588, content: 。, id: KR6r0037_T_001-bkkpn178}
+  - {type: page-break, offset: 1594, content: '', id: KR6r0037_T_001-0186c, 'n': 0186c, ed: T, source_xml_id: T50.2047b.0186c}
+  - {type: line-break, offset: 1594, content: '', id: KR6r0037_T_001-0186c01, ed: T, 'n': 0186c01}
+  - {type: punctuation, offset: 1596, content: 。, id: KR6r0037_T_001-bkkpn179}
+  - {type: punctuation, offset: 1602, content: 。, id: KR6r0037_T_001-bkkpn180}
+  - {type: variant, offset: 1606, length: 1, content: 陀, 宮: ''}
+  - {type: punctuation, offset: 1608, content: 。, id: KR6r0037_T_001-bkkpn181}
+  - {type: line-break, offset: 1609, content: '', id: KR6r0037_T_001-0186c02, ed: T, 'n': 0186c02}
+  - {type: variant, offset: 1610, length: 1, content: 陀, 宮: ''}
+  - {type: punctuation, offset: 1615, content: 。, id: KR6r0037_T_001-bkkpn182}
+  - {type: variant, offset: 1623, length: 1, content: 配, 宮: ''}
+  - {type: line-break, offset: 1624, content: '', id: KR6r0037_T_001-0186c03, ed: T, 'n': 0186c03}
+  - {type: variant, offset: 1628, length: 1, content: 樹, 宮: ''}
+  - {type: xml-element, offset: 1630, content: '', id: KR6r0037_T_001-bkkxmlele3, name: note, role: open, attrs: {place: inline}}
+  - {type: variant, offset: 1630, length: 18, content: 依付法藏經即第十三祖三百餘年任持佛法＋（其所）【宋】佛法【大】，佛法其所【宋】佛法佛法其所, 宮: ''}
+  - {type: variant, offset: 1646, length: 2, content: 佛法, 宋: 佛法其所}
+  - {type: xml-element, offset: 1648, content: '', id: KR6r0037_T_001-bkkxmlele4, name: note, role: close, attrs: {place: inline}}
+  - {type: punctuation, offset: 1648, content: 。, id: KR6r0037_T_001-bkkpn183}
+  - {type: xml-element, offset: 1648, content: '', id: pT50p0185b1301_end, name: p, role: close, attrs: {'xml:id': pT50p0185b1301}}
+  - {type: line-break, offset: 1648, content: '', id: KR6r0037_T_001-0186c04, ed: T, 'n': 0186c04}
+  back: []
+hash: sha256:53909dca81d77646b52ab097acaece1849e3ce954d733e69f72490731677eb76

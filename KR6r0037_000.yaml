@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0037/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍樹菩薩傳
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2047b.xml
+    old_id: T50n2047b
+hash: sha256:7c50d63847e05bc74285d191b09f1b13c7c0873522f76627a6180cc71e4a8595
