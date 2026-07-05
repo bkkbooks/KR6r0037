@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0037_000.yaml, hash: 'sha256:7c50d63847e05bc74285d191b09f1b13c7c0873522f76627a6180cc71e4a8595'}
-  - {seq: 1, filename: KR6r0037_001.yaml, hash: 'sha256:71cf72e9eff51761363dcb5fc7513a54b078d7fc1d2e1b48d29091c751cbd0bf'}
+  - {seq: 1, filename: KR6r0037_001.yaml, hash: 'sha256:b46e8023e11ad47342e726dfc49cf0eea3ac8812f2867b5669c2f8d59eaa7cbe'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0037_001.markers.yaml, hash: 'sha256:43a1ce35536eee8e71e2c0b467e79e1451287b404e45481d258ea7c340dfd64a'}
+  - {seq: 0, role: markers, filename: assets/KR6r0037_000.markers.yaml, hash: 'sha256:43dfec62553c9a51696ec1f963b6af8455095d8aa21306e43c56bd2d86c40f75'}
+  - {seq: 1, role: markers, filename: assets/KR6r0037_001.markers.yaml, hash: 'sha256:56aa0df7a3f6950ff4c5757798b6a52210a11eba502f91daff07913079205dcf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 龍樹菩薩傳
   type: juan
   level: 1
-hash: sha256:746f00bc971dcdbc0a351ab040fa3fea407007d7d94bd209ba11b260b7fb6e82
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6e8f31f5245afba35b4b12a477382634c1664a4bddaa676961ec3a6e4b8110f9
